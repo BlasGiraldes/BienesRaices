@@ -14,11 +14,15 @@ La sección de "Sobre nosotros" ofrece una breve introducción a la empresa de b
 
 La sección de blog es un lugar donde los usuarios pueden encontrar consejos y noticias relacionadas con el sector inmobiliario. Esta sección puede incluir artículos sobre temas como el proceso de compra o alquiler de una propiedad, cómo elegir el lugar adecuado para vivir o cómo mejorar el valor de una propiedad.
 
+
 ![tinywow_Blog_10327022](https://user-images.githubusercontent.com/81719352/209485430-9b261b8b-2524-4cda-bc3c-519092a8e230.gif)
+
 
 La sección de propiedades es el corazón de la página web, donde se muestran todas las propiedades disponibles para la venta o alquiler. Esta sección puede incluir una variedad de filtros y opciones de búsqueda para que los usuarios puedan encontrar fácilmente las propiedades que cumplan con sus criterios. Cada propiedad se presenta en una ficha detallada que incluye información como el precio y las características principales.
 
+
 ![tinywow_Anuncios_10326998](https://user-images.githubusercontent.com/81719352/209485441-d8089e4b-5921-405e-96b5-43570e093379.gif)
+
 
 La sección de contacto es un lugar donde los usuarios pueden enviar mensajes o hacer consultas sobre las propiedades o el proceso de compra o venta. Esta sección incluye un formulario de contacto y la información de contacto de la empresa, como el correo electrónico y el teléfono.
 
@@ -35,6 +39,7 @@ La página web de bienes raíces también está diseñada de manera responsiva, 
 
 
 Por último, la página web de bienes raíces también incluye un botón de "Modo oscuro" que permite a los usuarios cambiar la apariencia de la página a un diseño oscuro. Esto puede ser útil para aquellos que prefieren una apariencia más minimalista o que tienen problemas de fatiga visual al leer en pantalla durante largos períodos de tiempo.
+
 ![tinywow_DarkMode_10327037](https://user-images.githubusercontent.com/81719352/209485513-03a60f3c-ee0f-4c19-8c42-50767886c266.gif)
 
 Además de estas secciones principales, la página web de bienes raíces también incluye un sistema de login que permite a los usuarios ingresar a una sección de administrador donde pueden realizar operaciones de CRUD (Crear, Leer, Actualizar, Eliminar) sobre las propiedades. Esto es útil para los administradores de la página web, ya que les permite añadir, editar o eliminar propiedades/vendedores de la base de datos sin tener que acceder a ella directamente. 
