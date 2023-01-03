@@ -1,5 +1,10 @@
 # BienesRaices
-Proyecto de Bienes Raices creado con PHP8 y MySQL
+                                        Proyecto de Bienes Raices creado con PHP8 y MySQL
+
+🚀 Video de YouTube:
+
+[![Alt text](https://img.youtube.com/vi/HyKQwusQeyw/0.jpg)](https://www.youtube.com/watch?v=HyKQwusQeyw)
+
 
 La página web de bienes raíces es un sitio en línea diseñado para promocionar y vender propiedades inmobiliarias. Está desarrollada utilizando el patrón de diseño MVC (Modelo-Vista-Controlador) en PHP, lo que significa que está dividida en tres componentes principales: el modelo, la vista y el controlador.
 
